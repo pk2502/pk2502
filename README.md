@@ -31,14 +31,19 @@ I've spent 8+ years shipping production software, from enterprise security and c
 | [Li Copilot](https://paritosh-dev.vercel.app/work/li-copilot) | AI-powered LinkedIn messaging assistant: [extension](https://github.com/pk2502/linkedin-copilot-extension), [frontend](https://github.com/pk2502/linkedin-copilot-frontend), [backend](https://github.com/pk2502/linkedin-copilot-backend). |
 | [IceCreamGo](https://paritosh-dev.vercel.app/work/icecreamgo) | Connects customers with nearby ice cream trucks: live map, ordering and driver routes (in development). |
 | [DepRisk](https://paritosh-dev.vercel.app/work/deprisk) | Dependency vulnerability scanning for npm and PyPI projects, with a CI action (in development). |
+| [Baithak Co.](https://paritosh-dev.vercel.app/work/baithak-co) | Office chairs and spare parts store with an AI chair finder, Razorpay or cash-on-delivery checkout and doorstep repair booking (in development). |
+| [PosterWala](https://paritosh-dev.vercel.app/work/posterwala) | WhatsApp bot that turns a shop's name, logo and tagline into ready-to-post festival greeting posters (in development). |
 
 More projects and case studies: **[paritosh-dev.vercel.app](https://paritosh-dev.vercel.app/#projects)**
 
 ## ✍️ Writing
 
+- [One Next.js app, every school website: subdomains, custom domains and automatic HTTPS](https://paritosh-dev.vercel.app/blog/multi-tenant-website-builder-nextjs)
 - [Verifying Razorpay payments: the order ID you shouldn't trust](https://paritosh-dev.vercel.app/blog/verifying-razorpay-payments-safely)
 - [Nearby search with PostGIS and GeoDjango](https://paritosh-dev.vercel.app/blog/nearby-search-with-postgis-and-geodjango)
 - [SEO for a Vite + React SPA without SSR](https://paritosh-dev.vercel.app/blog/seo-for-vite-react-spa-without-ssr)
+
+All posts: **[paritosh-dev.vercel.app/blog](https://paritosh-dev.vercel.app/blog)**
 
 ## 🤝 Work with me
 
